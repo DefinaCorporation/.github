@@ -17,7 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=TypeScript&logoColor=3178c6)
 ![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&logoColor=blue)
 
-### For backend
+### Backend
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -34,7 +34,12 @@
 
 ### Company information:
 
-[![https://defina.ru](https://definaru.github.io/assets/images/button11.png)](https://defina.ru)
+The company is engaged in automation of business processes. 
+
+Interested in future technologies, artificial intelligence, cryptocurrency, e-commerce.
+
+
+[Read more](https://defina.ru)
 
 
 ***
