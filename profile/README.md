@@ -25,17 +25,16 @@
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=000)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFFF00?style=for-the-badge&logo=Miro&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=000)
 
 ---
 
 ### Company information:
 
-![https://defina.ru](https://definaru.github.io/assets/images/button11.png)
-
+[![https://defina.ru](https://definaru.github.io/assets/images/button11.png)](https://defina.ru)
 
 
 ***
