@@ -1,10 +1,10 @@
-# Hello, we are the developers of Defina ÜO
+# Hello, we are the developers of Defina OÜ
 
 ### The future has already arrived
 
 [![License](https://img.shields.io/github/license/DefinaCorporation/.github.svg)](https://github.com/DefinaCorporation/Defina-LLC/blob/master/LICENSE)
 
-![Defina ÜO](https://defina.netlify.app/promo/background.png)
+![Defina OÜ](https://defina.netlify.app/promo/background.png)
 
 ## Programming languages 
 #### we consider and welcome
@@ -43,4 +43,4 @@ Interested in future technologies, artificial intelligence, cryptocurrency, e-co
 
 
 ***
-&copy;Defina ÜO &trade;, 2023
+&copy;Defina OÜ &trade;, 2023
